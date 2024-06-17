@@ -2,7 +2,6 @@ import instaloader
 import os
 import sys
 
-# Initialize Instaloader
 loader = instaloader.Instaloader()
 
 
