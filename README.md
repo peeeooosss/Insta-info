@@ -14,6 +14,8 @@ source venv/bin/activate
 <h3> Step 3 </h3>
 
 python3 -m pip install -r requirements.txt
+or
+python3 -m pip install instaloader
 
 <h3> Step 4 </h3>
 
