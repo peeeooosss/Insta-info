@@ -20,3 +20,6 @@ source venv/bin/activate
 <h3> Step 4 </h3>
 
 python3 Public-info.py
+
+
+<p> OUTPUT WILL BE SAVE IN THE DIRECTORY NAME "OUTPUT"</p>
